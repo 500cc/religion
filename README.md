@@ -15,3 +15,10 @@
 5. まんがタイムきらら及びその姉妹誌はおもしろいので、たくさん読むこと。
 
 6. まんがタイムきらら及びその姉妹誌を積極的に買い支えること。まんがタイムきららミラクの悲劇を繰り返してはならない。
+
+<!--
+  This project is libre, and licenced under the terms of the
+  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,
+  as published by dtf, July 2019. See the COPYING file or
+  https://ph.dtf.wtf/u/wtfplv31 for more details.
+-->
